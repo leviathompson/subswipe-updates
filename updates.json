@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "subswipe@leviathompson": {
+      "updates": [
+        {
+          "version": "0.2.1",
+          "update_link": "https://raw.githubusercontent.com/leviathompson/subswipe-updates/main/builds/subswipe-0.2.1.xpi",
+          "update_hash": "sha256:1f95910d7f5bb333b2ac5014381681b3ca6a851c7b081e7545264c68d6751644"
+        }
+      ]
+    }
+  }
+}
