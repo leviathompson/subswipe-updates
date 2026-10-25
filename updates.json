@@ -36,6 +36,11 @@
           "version": "0.3.3",
           "update_link": "https://raw.githubusercontent.com/leviathompson/subswipe-updates/main/builds/subswipe-0.3.3.xpi",
           "update_hash": "sha256:3562e448ffeb398ff8c0befbe5b7a1971518da339a11e28560da469792123309"
+        },
+        {
+          "version": "0.3.4",
+          "update_link": "https://raw.githubusercontent.com/leviathompson/subswipe-updates/main/builds/subswipe-0.3.4.xpi",
+          "update_hash": "sha256:9581a899f6f8f5fae165642e852695508c4c59465383e0ff406f26780decc720"
         }
       ]
     }
